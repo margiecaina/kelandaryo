@@ -32,4 +32,4 @@ Leila Anne Perez [code]
 and Myself.
 II-ACSSC
 
-THE END...
+<--THE END-->
