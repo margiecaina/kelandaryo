@@ -2,6 +2,17 @@
 KelanDaryo is a versatile calendar app designed to help users streamline your daily schedule easily. KelanDaryo is a simple tool for staying organized and on top of things.
 
 
+<--NEW UPDATE 05/29/2023-->
+
+Center + icon and put it instead to the main page
+
+<img src = "https://github.com/margiecaina/kelandaryo/assets/73752427/b2329ee7-178e-47c7-85e1-3135cac23b35" width= "300">
+
+Change font color to white
+
+<img src = "https://github.com/margiecaina/kelandaryo/assets/73752427/deec2f32-2597-4fce-b01e-2c6bc308a9fc" width= "300">
+
+<--END OF UPDATE-->
 
 First Click the button called "Go to Week Tab".
 
@@ -33,3 +44,4 @@ and Myself.
 II-ACSSC
 
 <--THE END-->
+
