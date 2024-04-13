@@ -37,10 +37,10 @@ Here is an example we have add and will show to the Week View.
 <img src="https://github.com/margiecaina/kelandaryo/assets/73752427/b8d85364-eec4-4b5d-9799-6d6675f84c00" width="300">
 
 This school project has been collaboratively created by a team of four individuals, namely:
-John Lennard Baldonasa 
-Den Mark Sogoni 
-Leila Anne Perez 
-and Myself.
+John Lennard Baldonasa [Design]
+Den Mark Sogoni [programmer]
+Leila Anne Perez [Documentation]
+and Myself [lead].
 II-ACSSC
 
 Environment: Android Studio
