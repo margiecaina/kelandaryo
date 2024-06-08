@@ -38,13 +38,13 @@ Here is an example we have add and will show to the Week View.
 
 This school project has been collaboratively created by a team of four individuals, namely:
 
-John Lennard Baldonasa [Design]
+Design: John Lennard Baldonasa 
 
-Den Mark Sogoni [programmer]
+Programmer: Den Mark Sogoni 
 
-Leila Anne Perez [Documentation]
+Research & Documentation: Leila Anne Perez 
 
-and Myself [lead].
+Lead Programmer: Margie Caina
 
 II-ACSSC
 
