@@ -38,16 +38,6 @@ Here is an example we have add and will show to the Week View.
 
 This school project has been collaboratively created by a team of four individuals, namely:
 
-Design: John Lennard Baldonasa 
-
-Programmer: Den Mark Sogoni 
-
-Research & Documentation: Leila Anne Perez 
-
-Lead Programmer: Margie Caina
-
-II-ACSSC
-
 Environment: Android Studio
 
 Language: Java
