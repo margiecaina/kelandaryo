@@ -98,7 +98,3 @@
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-## Acknowledgments
-Special thanks to all contributors and testers for their invaluable input in improving KelanDaryo.
